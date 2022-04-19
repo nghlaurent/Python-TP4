@@ -1,0 +1,7 @@
+{
+	"token": "Ajouter votre token ici",
+	"prefix": "!",
+	"log_format": "%(asctime)s %(message)s",
+	"log_date":  "[%m/%d/%Y-%I:%M:%S]",
+	"log_file": "log.log"
+}
